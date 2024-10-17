@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome🐕
 
 <!--
 **yu-ka3028/yu-ka3028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me
-
+<!--
 1. I'm a web frontend and backend developer from Japan
 
 2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
@@ -25,15 +25,19 @@ Here are some ideas to get you started:
 4. You can find my Zenn Blog [here](https://zenn.dev/manase)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
+-->
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ruby,html,css,js," /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rails,tailwind,bootstrap" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,mysql,postgres,yarn,figma,nginx" /> <br /><br />
+
+## Community
+
+<img src="https://skillicons.dev/icons?i=twitter,notion,discord," /> <br /><br />
