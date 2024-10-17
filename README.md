@@ -2,7 +2,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yu-ka3028&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yu-ka3028&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yu-ka3028&theme=apprentice&utcOffset=8)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yu-ka3028&theme=gruvbox)](https://github.com/yuk-ka3028/github-profile-trophy)
+
 
 <!--
 **yu-ka3028/yu-ka3028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
