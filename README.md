@@ -1,4 +1,7 @@
 ## Welcome🐕
+[![Image from Gyazo](https://i.gyazo.com/f291e39a917fb119cf85071cb051a807.png)](https://gyazo.com/f291e39a917fb119cf85071cb051a807)
+
+---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yu-ka3028&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yu-ka3028&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yu-ka3028&theme=apprentice&utcOffset=8)
