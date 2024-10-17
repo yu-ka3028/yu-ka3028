@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,mysql,postgres,yarn,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,mysql,postgres,yarn,figma" /> <br /><br />
 
 ## Community
 
