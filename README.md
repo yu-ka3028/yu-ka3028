@@ -1,4 +1,3 @@
-## Welcome🐕
 [![Image from Gyazo](https://i.gyazo.com/f291e39a917fb119cf85071cb051a807.png)](https://gyazo.com/f291e39a917fb119cf85071cb051a807)
 
 ---
